@@ -1,0 +1,3 @@
+# Öröklés
+
+Öröklés gyakorlat

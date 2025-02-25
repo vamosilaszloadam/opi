@@ -18,5 +18,6 @@ public class App {
         System.out.println(eng1.name + " " + eng1.diploma);
         Engineer eng2 = new Engineer("Dani");
         System.out.println(eng2.name + " " + eng2.diploma);
+        eng2.working();
     }
 }
